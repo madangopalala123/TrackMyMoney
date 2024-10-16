@@ -2,7 +2,7 @@
 // these functions help frontend to connect with backend 
 
 // const backendBaseUrl = 'http://localhost:8080';
-const backendBaseUrl = 'http://localhost:5000';
+const backendBaseUrl = 'https://trackmymoney-1.onrender.com';
 
 export const makeUnauthenticatedPOSTRequest = async (route, body) => { // route will be API route  
 
